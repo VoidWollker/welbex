@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77a7bc36.css",
+    "main.js": "/static/js/main.73ffffff.js",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.fe24535359801e7f00829d3de0f85ddf.svg",
+    "static/media/viber.svg": "/static/media/viber.4943b35bf6678c4f2a27d0bc306f1f54.svg",
+    "index.html": "/index.html",
+    "static/media/telegram.svg": "/static/media/telegram.8f38538be306849e90ef15ed20580f59.svg",
+    "main.77a7bc36.css.map": "/static/css/main.77a7bc36.css.map",
+    "main.73ffffff.js.map": "/static/js/main.73ffffff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a7bc36.css",
+    "static/js/main.73ffffff.js"
+  ]
+}
